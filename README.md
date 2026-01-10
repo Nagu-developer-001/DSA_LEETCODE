@@ -15,6 +15,7 @@ Leaning_DSA_leetcode
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
