@@ -17,6 +17,7 @@ Leaning_DSA_leetcode
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
