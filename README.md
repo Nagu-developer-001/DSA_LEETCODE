@@ -9,6 +9,7 @@ Leaning_DSA_leetcode
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
