@@ -11,6 +11,7 @@ Leaning_DSA_leetcode
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ Leaning_DSA_leetcode
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -57,6 +59,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -71,6 +74,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
