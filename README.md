@@ -15,6 +15,7 @@ Leaning_DSA_leetcode
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -100,6 +101,7 @@ Leaning_DSA_leetcode
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
