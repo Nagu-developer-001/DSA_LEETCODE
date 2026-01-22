@@ -9,6 +9,7 @@ class Solution {
                 high = mid;
             }
         }
+        System.gc();
         return high;
     }
 }
