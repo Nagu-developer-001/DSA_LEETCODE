@@ -11,6 +11,7 @@ Leaning_DSA_leetcode
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
@@ -28,6 +29,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -71,6 +73,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
