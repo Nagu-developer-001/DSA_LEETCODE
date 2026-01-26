@@ -23,6 +23,7 @@ Leaning_DSA_leetcode
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ Leaning_DSA_leetcode
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
@@ -83,6 +85,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -117,4 +120,5 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
