@@ -91,6 +91,7 @@ Leaning_DSA_leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
