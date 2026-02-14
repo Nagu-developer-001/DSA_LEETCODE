@@ -85,6 +85,7 @@ Leaning_DSA_leetcode
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
