@@ -23,6 +23,7 @@ Leaning_DSA_leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -145,6 +146,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
