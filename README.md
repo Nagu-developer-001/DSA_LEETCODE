@@ -12,6 +12,7 @@ Leaning_DSA_leetcode
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -150,6 +152,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
