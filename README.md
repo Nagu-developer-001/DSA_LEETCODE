@@ -23,6 +23,7 @@ Leaning_DSA_leetcode
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -121,6 +122,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -158,6 +160,7 @@ Leaning_DSA_leetcode
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
