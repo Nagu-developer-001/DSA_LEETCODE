@@ -9,6 +9,7 @@ Leaning_DSA_leetcode
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
@@ -45,6 +46,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0075-sort-colors) |
