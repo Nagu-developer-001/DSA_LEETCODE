@@ -26,6 +26,7 @@ Leaning_DSA_leetcode
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -118,6 +119,7 @@ Leaning_DSA_leetcode
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
