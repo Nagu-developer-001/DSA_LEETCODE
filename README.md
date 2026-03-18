@@ -129,6 +129,7 @@ Leaning_DSA_leetcode
 | [0263-ugly-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -154,6 +155,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0136-single-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -186,6 +188,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
