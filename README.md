@@ -125,6 +125,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
@@ -161,6 +162,7 @@ Leaning_DSA_leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
