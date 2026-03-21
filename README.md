@@ -105,6 +105,7 @@ Leaning_DSA_leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -131,12 +132,14 @@ Leaning_DSA_leetcode
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
