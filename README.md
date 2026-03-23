@@ -68,6 +68,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -127,6 +128,7 @@ Leaning_DSA_leetcode
 | [0007-reverse-integer](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
@@ -202,4 +204,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
