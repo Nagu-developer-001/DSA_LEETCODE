@@ -71,6 +71,7 @@ Leaning_DSA_leetcode
 | [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Leaning_DSA_leetcode
 | [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -212,4 +214,5 @@ Leaning_DSA_leetcode
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
