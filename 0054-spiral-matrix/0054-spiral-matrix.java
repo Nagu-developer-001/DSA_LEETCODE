@@ -12,18 +12,11 @@ class Solution {
             }
             //Right
             for(int i=startRow+1;i<=endRow;i++){
-                //if(endCol>=0){
                 matrixs.add(matrix[i][endCol]);
-                //}else{
-                  //  break;
-                //}
             }
             //Bottom print bottom rows
             if (startRow < endRow) {
                 for(int j=endCol-1;j>=startCol;j--){
-                //if(startRow==endRow){
-                  //  break;
-                //}
                 matrixs.add(matrix[endRow][j]);
             }
             }
