@@ -7,6 +7,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -50,6 +51,7 @@ Leaning_DSA_leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0027-remove-element) |
@@ -225,4 +227,8 @@ Leaning_DSA_leetcode
 | [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
