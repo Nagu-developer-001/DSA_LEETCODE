@@ -67,6 +67,7 @@ Leaning_DSA_leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
@@ -231,4 +232,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
