@@ -70,6 +70,7 @@ Leaning_DSA_leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
@@ -242,4 +243,5 @@ Leaning_DSA_leetcode
 | [0141-linked-list-cycle](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
