@@ -88,6 +88,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -124,6 +125,7 @@ Leaning_DSA_leetcode
 | [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
