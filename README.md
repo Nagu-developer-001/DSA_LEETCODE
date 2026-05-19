@@ -65,6 +65,7 @@ Leaning_DSA_leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +90,7 @@ Leaning_DSA_leetcode
 | [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -222,6 +224,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0394-decode-string) |
@@ -249,6 +252,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
