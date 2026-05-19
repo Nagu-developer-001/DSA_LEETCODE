@@ -18,19 +18,15 @@ class Solution {
             st.push(slow.val);
             slow = slow.next;
         }
-        boolean vals = true;
         while(head!=null)
         {
             int data = st.pop();
-            if(data == head.val)
+            if(data != head.val)
             {
-                vals = true;
-            }else{
-                vals = false;
-                break;
+                return false;
             }
             head = head.next;
         }
-        return vals;
+        return true;
     }
 }
