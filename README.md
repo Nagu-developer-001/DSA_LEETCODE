@@ -53,6 +53,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -250,6 +251,7 @@ Leaning_DSA_leetcode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
