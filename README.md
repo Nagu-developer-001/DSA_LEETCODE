@@ -224,6 +224,7 @@ Leaning_DSA_leetcode
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0326-power-of-three) |
@@ -252,6 +253,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
