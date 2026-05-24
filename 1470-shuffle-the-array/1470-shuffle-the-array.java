@@ -1,11 +1,17 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        int[] result = new int[nums.length];
-        int low=0,high=n,k=0;
-        while(low<n && 0<n*2){
-            result[k++] = nums[low++];
-            result[k++] = nums[high++];
+        int[] arr = new int[n*2];
+        boolean x1 = true;
+        int k=0;
+        for(int i = 0;i<nums.length;i++){
+            if(x1){
+                arr[i] = nums[k];k++;
+                x1= false;
+            }else{
+                arr[i] = nums[n];n++;
+                x1 = true;
+            }
         }
-        return result;
+        return arr;
     }
 }
