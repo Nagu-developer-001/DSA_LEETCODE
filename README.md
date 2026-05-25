@@ -34,6 +34,7 @@ Leaning_DSA_leetcode
 | [0485-max-consecutive-ones](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -112,6 +113,7 @@ Leaning_DSA_leetcode
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
@@ -147,6 +149,7 @@ Leaning_DSA_leetcode
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +194,7 @@ Leaning_DSA_leetcode
 | [0136-single-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
