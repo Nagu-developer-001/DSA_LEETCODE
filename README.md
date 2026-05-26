@@ -40,6 +40,7 @@ Leaning_DSA_leetcode
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
@@ -98,6 +99,7 @@ Leaning_DSA_leetcode
 | [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -181,6 +183,7 @@ Leaning_DSA_leetcode
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
