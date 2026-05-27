@@ -36,6 +36,7 @@ Leaning_DSA_leetcode
 | [0485-max-consecutive-ones](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
@@ -100,6 +101,7 @@ Leaning_DSA_leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
