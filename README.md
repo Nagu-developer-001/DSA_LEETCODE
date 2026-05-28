@@ -38,6 +38,7 @@ Leaning_DSA_leetcode
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -103,6 +104,7 @@ Leaning_DSA_leetcode
 | [0234-palindrome-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -111,6 +113,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
