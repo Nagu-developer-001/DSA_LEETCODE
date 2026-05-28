@@ -47,6 +47,7 @@ Leaning_DSA_leetcode
 | [1441-build-an-array-with-stack-operations](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ Leaning_DSA_leetcode
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -187,6 +189,7 @@ Leaning_DSA_leetcode
 | [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -209,6 +212,7 @@ Leaning_DSA_leetcode
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
