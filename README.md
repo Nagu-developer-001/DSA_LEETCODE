@@ -158,6 +158,7 @@ Leaning_DSA_leetcode
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
