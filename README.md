@@ -48,6 +48,7 @@ Leaning_DSA_leetcode
 | [1470-shuffle-the-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1720-decode-xored-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -157,6 +158,7 @@ Leaning_DSA_leetcode
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
