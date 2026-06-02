@@ -54,6 +54,7 @@ Leaning_DSA_leetcode
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -161,6 +162,7 @@ Leaning_DSA_leetcode
 | [1108-defanging-an-ip-address](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
