@@ -1,18 +1,22 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currentSum = nums[0]; // store best subarray sum ending at current index
-        int maxSum = nums[0]; // store best answer found anywhere
+        int n = nums.length;
+        int sum =0;
+        int start =0;
+        int max = Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            if(sum==0)  start = i;
+            sum = sum+nums[i];
+            if(sum>max){
+                max=sum;
+                int beststart = start;
+                int bestend = i;
 
-        for (int i=1; i < nums.length; i++){
-            int num = nums[i]; // get current number
-
-            // check which is bigger, the current number if i start from here, or if i continue off
-            currentSum = Math.max(num, currentSum + num);
-
-            // check if i have a new bigger sum
-            maxSum = Math.max(maxSum, currentSum);
+            }
+            if(sum<0){
+                sum =0;
+            }
         }
-
-        return maxSum;
+        return max;
     }
 }
