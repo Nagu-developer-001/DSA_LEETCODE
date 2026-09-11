@@ -17,6 +17,7 @@ Leaning_DSA_leetcode
 | [0035-search-insert-position](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
@@ -125,6 +126,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
@@ -148,6 +150,7 @@ Leaning_DSA_leetcode
 | [0014-longest-common-prefix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
@@ -167,6 +170,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
