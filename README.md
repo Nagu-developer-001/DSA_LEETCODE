@@ -152,6 +152,7 @@ Leaning_DSA_leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -187,6 +188,7 @@ Leaning_DSA_leetcode
 | [0007-reverse-integer](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -205,6 +207,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
@@ -226,6 +229,7 @@ Leaning_DSA_leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0342-power-of-four) |
