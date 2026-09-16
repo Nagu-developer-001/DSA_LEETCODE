@@ -12,5 +12,4 @@ class Solution {
             }
         }
         return index==0?"":str1.substring(0,index);
-    }
-}
+    }}
