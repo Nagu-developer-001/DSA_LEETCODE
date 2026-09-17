@@ -244,6 +244,7 @@ Leaning_DSA_leetcode
 | [0069-sqrtx](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2540-minimum-common-value) |
@@ -310,4 +311,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
