@@ -30,6 +30,7 @@ Leaning_DSA_leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -315,4 +316,24 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
