@@ -35,6 +35,7 @@ Leaning_DSA_leetcode
 | [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -138,6 +139,7 @@ Leaning_DSA_leetcode
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
@@ -183,6 +185,7 @@ Leaning_DSA_leetcode
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
@@ -228,6 +231,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -258,6 +262,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -332,6 +337,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -344,4 +350,12 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
