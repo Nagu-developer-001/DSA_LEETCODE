@@ -42,6 +42,7 @@ Leaning_DSA_leetcode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
@@ -144,6 +145,7 @@ Leaning_DSA_leetcode
 | [0347-top-k-frequent-elements](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -352,6 +354,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Bucket Sort
 |  |
 | ------- |
