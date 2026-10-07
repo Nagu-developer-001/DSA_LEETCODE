@@ -367,4 +367,8 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
