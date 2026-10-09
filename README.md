@@ -371,4 +371,12 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
