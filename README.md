@@ -91,6 +91,7 @@ Leaning_DSA_leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -147,6 +148,7 @@ Leaning_DSA_leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -174,6 +176,7 @@ Leaning_DSA_leetcode
 | [0415-add-strings](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/1528-shuffle-string) |
@@ -340,6 +343,7 @@ Leaning_DSA_leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
