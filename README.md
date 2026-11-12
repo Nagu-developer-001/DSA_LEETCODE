@@ -203,6 +203,7 @@ Leaning_DSA_leetcode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Nagu-developer-001/DSA_LEETCODE/tree/master/0067-add-binary) |
